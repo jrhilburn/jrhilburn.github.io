@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Justin Hilburn"
 title_separator          : "-"
-name                     : &name "Justin Hilbunr"
+name                     : &name "Justin Hilburn"
 description              : &description "Senior Postdoctoral Fellow at Perimeter Institute for Theoretical Physics"
 url                      : https://jrhilburn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
