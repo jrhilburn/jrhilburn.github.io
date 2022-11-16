@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Senior Postdoctoral Fellow"
   location         : "Waterloo, ON"
-  employer         : "Perimeter Institute for Theoretical Physics"
+  employer         : "Perimeter Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pKDnKC4AAAAJ&hl=en"
   email            :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  arxiv            : "https://arxiv.org/a/0000-0002-4961-8886.html"
 
 
 # Reading Files
