@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![MirrorSymmetry](/images/MirrorSymmeTree.jpg)
 
-<img src="https://jrhilburn.github.io/images/MirrorSymmeTree.jpg">
+<p align="center" width="100%">
+    <img width="100%" src="https://jrhilburn.github.io/images/MirrorSymmeTree.jpg">
+</p>
