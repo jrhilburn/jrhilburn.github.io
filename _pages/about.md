@@ -5,10 +5,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<! ![MirrorSymmetry](/images/MirrorSymmeTree.jpg) !>
+![MirrorSymmetry](/images/MirrorSymmeTree.jpg)
 
-<img src="https://jrhilburn.github.io/images
-/MirrorSymmeTree.jpg"
+<img src="https://jrhilburn.github.io/images/MirrorSymmeTree.jpg"
      alt="The MirrorSymme-Tree"
      style="display:block; /* override the default display setting of `inline-block` */
             float:none; /* override any prior settings of `left` or `right` */
