@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "The Mirror SymmeTree"
+excerpt: "The Mirror SymmeTree"
 author_profile: true
 redirect_from: 
   - /about/
